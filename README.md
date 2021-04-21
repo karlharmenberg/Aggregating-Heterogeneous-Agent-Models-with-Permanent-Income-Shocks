@@ -1,4 +1,4 @@
-# Aggregating-Heterogeneous-Agent-Models-with-Permanent-Income-Shocks
+# Aggregating Heterogeneous-Agent Models with Permanent Income Shocks
 This repository contains the code for the paper Aggregating Heterogeneous-Agent Models with Permanent Income Shocks by Karl Harmenberg.
 
 To explore the code, launch the notebook by clicking below.
