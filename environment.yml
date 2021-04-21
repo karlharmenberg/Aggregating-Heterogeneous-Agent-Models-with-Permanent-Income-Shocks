@@ -1,0 +1,11 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.3.4
+  - numba=0.53.1
+  - numpy=1.19.2
+  - python=3.8.8
+  - scipy=1.6.2
+  - seaborn=0.11.1
+prefix: /opt/anaconda3
